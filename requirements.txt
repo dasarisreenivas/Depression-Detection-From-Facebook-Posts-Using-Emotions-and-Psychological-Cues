@@ -1,0 +1,28 @@
+# Core ML & Data
+numpy==1.24.4
+pandas==2.0.3
+scikit-learn==1.3.0
+joblib==1.3.2
+
+# Deep Learning
+torch==2.1.0
+torchvision==0.16.0
+
+# NLP (DeBERTa)
+transformers==4.36.2
+tokenizers==0.15.0
+
+# Image Processing
+Pillow==10.0.1
+
+# Video Processing
+opencv-python==4.8.1.78
+
+# API Backend (optional but recommended)
+flask==2.3.3
+flask-cors==4.0.0
+
+# Utilities
+tqdm==4.66.1
+
+kaggle==1.5.16
